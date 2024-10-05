@@ -1,6 +1,6 @@
 # CVinW Readings [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 
-``[Computer Vision in the Wild (CVinW)](https://computer-vision-in-the-wild.github.io/eccv-2022/)'' is an emerging research field. This writeup provides a quick introduction of CVinW and maintains a collection of papers on the topic. If you find some missing papers or resources, please open issues or pull requests (recommended).
+"[Computer Vision in the Wild (CVinW)](https://computer-vision-in-the-wild.github.io/eccv-2022/)'' is an emerging research field. This writeup provides a quick introduction of CVinW and maintains a collection of papers on the topic. If you find some missing papers or resources, please open issues or pull requests (recommended).
 
 
 # Table of Contents
@@ -37,7 +37,7 @@ Developing a transferable foundation model/system that can *effortlessly* adapt 
 ### :one: Task Transfer Scenarios are Broad
 
 We illustrate and compare CVinW with other settings using a 2D chart in Figure 1, where the space is constructed with two orthogonal dimensions:
-input image distribution and output concept set. The 2D chart is divided into four quadrants, based on how the model evaluation stage is different from model development stage. For any visual recognition problems at different granularity such as image classification, object detection and segmentation, the modeling setup cann be categorized into one of the four settings. We see an emerging trend on moving towards CVinW. Interested in the various pre-trained vision models that move towards CVinW? please check out Section :fire:[``Papers on Task-level Transfer with Pre-trained Models''](#fire-papers-on-task-level-transfer-with-pre-trained-models).
+input image distribution and output concept set. The 2D chart is divided into four quadrants, based on how the model evaluation stage is different from model development stage. For any visual recognition problems at different granularity such as image classification, object detection and segmentation, the modeling setup cann be categorized into one of the four settings. We see an emerging trend on moving towards CVinW. Interested in the various pre-trained vision models that move towards CVinW? please check out Section :fire:["Papers on Task-level Transfer with Pre-trained Models''](#fire-papers-on-task-level-transfer-with-pre-trained-models).
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ input image distribution and output concept set. The 2D chart is divided into fo
 
 </td>
 <td>
-    <img src="images/fig_cvinw.png" style="width:100%;"> 
+    <img src="images/fig_cvinw.png" style="width:150% height:200%;"> 
 </td>
 </tr> 
 <tr>
